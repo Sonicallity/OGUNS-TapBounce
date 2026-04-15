@@ -1,0 +1,17 @@
+# Legacy node/expo folders
+app/
+backend/
+php/
+
+# PHP project files
+/vendor/
+composer.lock
+scores.json
+
+# Local development cache
+*.log
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
