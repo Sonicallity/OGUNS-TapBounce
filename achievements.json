@@ -1,0 +1,42 @@
+{
+    "first_flight": {
+        "name": "First Launch",
+        "desc": "Complete your first mission",
+        "unlocked": false
+    },
+    "coin_collector": {
+        "name": "Coin Collector",
+        "desc": "Collect 100 coins",
+        "unlocked": false
+    },
+    "speed_demon": {
+        "name": "Speed Demon",
+        "desc": "Reach max speed",
+        "unlocked": false
+    },
+    "survivor": {
+        "name": "Survivor",
+        "desc": "Complete 5 levels",
+        "unlocked": false
+    },
+    "high_flyer": {
+        "name": "High Flyer",
+        "desc": "Score 5000+ points",
+        "unlocked": false
+    },
+    "power_master": {
+        "name": "Power Master",
+        "desc": "Use all power-ups",
+        "unlocked": false
+    },
+    "perfect_run": {
+        "name": "Perfect Run",
+        "desc": "Complete a level without taking damage",
+        "unlocked": false
+    },
+    "cosmic_explorer": {
+        "name": "Cosmic Explorer",
+        "desc": "Reach level 10",
+        "unlocked": false
+    }
+}
